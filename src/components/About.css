@@ -1,0 +1,38 @@
+.about-page {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .about-page h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .about-page p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+  }
+  
+  .team {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .team-member {
+    text-align: center;
+  }
+  
+  .team-member img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%; /* Formato de círculo */
+    margin-bottom: 10px;
+  }
+  
+  .team-member p {
+    font-size: 14px;
+  }
+  

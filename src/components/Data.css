@@ -1,0 +1,11 @@
+.data-chart {
+    margin-top: 20px;
+  }
+  
+  /* Estilize o gráfico e seus elementos aqui */
+  .chart-canvas {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
